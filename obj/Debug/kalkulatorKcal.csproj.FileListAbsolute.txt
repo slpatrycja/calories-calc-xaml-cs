@@ -1,0 +1,15 @@
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal.csprojResolveAssemblyReference.cache
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\MainWindow.g.cs
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\App.g.cs
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal_MarkupCompile.cache
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal_MarkupCompile.lref
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\bin\Debug\kalkulatorKcal.exe.config
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\bin\Debug\kalkulatorKcal.exe
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\bin\Debug\kalkulatorKcal.pdb
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\MainWindow.baml
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal.g.resources
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal.Properties.Resources.resources
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal.csproj.GenerateResource.cache
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal.exe
+C:\Users\Patrycja\source\repos\kalkulatorKcal\kalkulatorKcal\obj\Debug\kalkulatorKcal.pdb

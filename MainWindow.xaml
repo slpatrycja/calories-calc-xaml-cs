@@ -1,0 +1,32 @@
+﻿<Window x:Class="kalkulatorKcal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kalkulatorKcal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="Oblicz" HorizontalAlignment="Left" Margin="279,299,0,0" VerticalAlignment="Top" Width="215" RenderTransformOrigin="0.5,0.5" Height="26" Click="button_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.095"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="ilosc" Content="ilość" HorizontalAlignment="Left" Height="29" Margin="425,77,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label x:Name="g" Content="kcal/100g" HorizontalAlignment="Left" Height="30" Margin="425,147,0,0" VerticalAlignment="Top" Width="61"/>
+
+        <TextBox x:Name="kalorie" HorizontalAlignment="Left" Height="22" Margin="494,151,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="101"/>
+        <TextBox x:Name="waga" HorizontalAlignment="Left" Height="33" Margin="494,77,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="134"/>
+        <ComboBox x:Name="lista" Margin="56,49,518.333,328.667">
+            <ComboBoxItem Content="pizza"/>
+            <ComboBoxItem Content="hamburger"/>
+            <ComboBoxItem Content="brownie"/>
+        </ComboBox>
+        <TextBox x:Name="poleWyniku" HorizontalAlignment="Left" Height="23" Margin="56,373,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="636"/>
+    </Grid>
+</Window>
